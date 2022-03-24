@@ -1,0 +1,47 @@
+{
+    "students": [
+      {
+        "name": "Sayed",
+        "middlename": null,
+        "age": 23,
+        "cgpa": 3.22,
+        "isRegistered": true,
+        "language": [
+          "Bangla",
+          "Englisg"
+        ],
+        "friends": [
+          {
+            "name": "Asif",
+            "age": 26
+          },
+          {
+            "name": "Sakib",
+            "age": 25
+          }
+        ]
+      },
+      {
+        "name": "Mehedi",
+        "middlename": null,
+        "age": 30,
+        "cgpa": 3.2,
+        "isRegistered": false,
+        "language": [
+          "Bangla",
+          "Englisg",
+          "Arabic"
+        ],
+        "friends": [
+          {
+            "name": "Mukul",
+            "age": 28
+          },
+          {
+            "name": "Lukman",
+            "age": 22
+          }
+        ]
+      }
+    ]
+  }
